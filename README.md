@@ -18,8 +18,10 @@ This project focuses on cleaning and preparing real-world café transaction data
 
 ---
 
-### 📌 Why This Matters
-Clean data is the foundation of every good insight. While this project is built on café transactions, the techniques apply to nearly all real-world datasets. Every scraped CSV, every messy Excel file—they all need cleaning before they mean anything.
+##📌 Why This Matters
+
+Clean data is the foundation of every good insight. While this project is built on café transactions, the techniques apply to nearly all real-world datasets. Every scraped CSV, every messy Excel file — they all need cleaning before they mean anything.
+
 ---
 
 Feel free to fork, clone, or use the `clean_dataframe()` function in your own projects.  
