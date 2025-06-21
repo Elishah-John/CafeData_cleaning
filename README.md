@@ -19,8 +19,7 @@ This project focuses on cleaning and preparing real-world café transaction data
 ---
 
 ### 📌 Why This Matters
-Clean data is the foundation of every good insight. This repo highlights the **importance of preprocessing** in the data pipeline — and offers reusable tools to speed it up.
-
+Clean data is the foundation of every good insight. While this project is built on café transactions, the techniques apply to nearly all real-world datasets. Every scraped CSV, every messy Excel file—they all need cleaning before they mean anything.
 ---
 
 Feel free to fork, clone, or use the `clean_dataframe()` function in your own projects.  
